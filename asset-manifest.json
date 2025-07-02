@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yaseenlmqilqane/LoanForm/static/css/main.2735e259.css",
+    "main.js": "/Yaseenlmqilqane/LoanForm/static/js/main.9f517ae1.js",
+    "index.html": "/Yaseenlmqilqane/LoanForm/index.html",
+    "main.2735e259.css.map": "/Yaseenlmqilqane/LoanForm/static/css/main.2735e259.css.map",
+    "main.9f517ae1.js.map": "/Yaseenlmqilqane/LoanForm/static/js/main.9f517ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2735e259.css",
+    "static/js/main.9f517ae1.js"
+  ]
+}
