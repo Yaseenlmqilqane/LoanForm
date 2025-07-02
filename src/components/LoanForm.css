@@ -1,0 +1,64 @@
+.div-input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+  align-items: start;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+form {
+  padding: 1.5rem;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+input {
+  outline: none;
+  border: none;
+  background-color: white;
+  padding: 4px 8px;
+  color: #131313;
+  font-size: 0.875rem;
+  margin-top: 8px;
+  width: 100%;
+}
+
+.checkbox {
+  width: 16px;
+}
+
+input::placeholder {
+  color: #13131342;
+}
+
+select {
+  margin-top: 8px;
+  border: none;
+  width: 100%;
+  background-color: white;
+  color: #131313;
+  padding: 4px 8px;
+}
+
+option {
+  background-color: white;
+}
+
+.btn {
+  border: none;
+  font-style: 16px;
+  font-weight: 600;
+  background-color: rgb(255, 255, 255);
+  color: #000000;
+  padding: 8px 24px;
+  margin-top: 2.5rem;
+  cursor: pointer;
+}
+
+.btn:disabled {
+  background-color: rgb(122, 121, 121);
+  color: #252525;
+}

@@ -1,0 +1,24 @@
+body {
+  position: relative;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.753);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+}
+
+.msg-text {
+  padding: 20px;
+  font-size: 2rem;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  color: green;
+  width: 50%;
+  text-align: center;
+}
